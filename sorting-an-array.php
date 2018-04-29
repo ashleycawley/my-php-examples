@@ -1,5 +1,7 @@
 <?php
 
+// The purpose of this script is to sort a unorganised list into a sorted (low to high) list
+
 // A string of numbers in no particular order
 $string = '1 80 5 78 42 6 3 9 10';
 
