@@ -3,8 +3,7 @@
 # Setting my variable
 $name = 'Tim';
 
-
-if ( $name === 'Ashley' )
+if ( $name === 'Ashley' ) # Performs a test to see if the variable $name is Ashley
 {
     echo "Hello, Ashley.";
 } else {
